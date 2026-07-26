@@ -52,8 +52,7 @@ A web-based service booking platform that allows customers to book home and vehi
 
 **Tech Stack:** Python, HTML, CSS, JavaScript, MySQL
 
-🔗 **Repository:** *(Add your project repository link after you upload it.)*
-
+🔗 **Repository:** https://github.com/vivekpalled4-svg/Pick-My-Service-Portal
 ---
 
 ## 📊 GitHub Stats
