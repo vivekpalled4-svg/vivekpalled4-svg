@@ -14,6 +14,8 @@
 - Java
 - C
 - JavaScript
+- PHP
+- R
 
 ### Frontend
 - HTML5
@@ -22,6 +24,7 @@
 
 ### Backend
 - Python
+- PHP
 
 ### Database
 - MySQL
@@ -33,7 +36,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Academic Project
 
 ### Pick My Service Portal
 
