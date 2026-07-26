@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Vivek 👋
 
-<!--
-**vivekpalled4-svg/vivekpalled4-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Graduate**   
+⚡ **Skills:** Python • HTML • CSS • JavaScript • MySQL • C • Java • Git • GitHub  
+🚀 **Open to Software Developer and Web Developer opportunities**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Python
+- Java
+- C
+- JavaScript
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Python
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 🚀 Featured Project
+
+### Pick My Service Portal
+
+A web-based service booking platform that allows customers to book home and vehicle services online.
+
+**Features**
+- 👤 User Registration & Login
+- 🚗 Service Booking
+- 📦 Pickup Tracking
+- 📜 Booking History
+- 🛠️ Admin Dashboard
+- ⭐ Customer Feedback
+
+**Tech Stack:** Python, HTML, CSS, JavaScript, MySQL
+
+🔗 **Repository:** *(Add your project repository link after you upload it.)*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekpalled4-svg&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpalled4-svg&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vivekpalled4-svg&theme=tokyonight)
+
+---
+
+
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/vivek-palled-1b407b360/
+- Email: vivekpalled4@gmail.com
+
+ ⭐ Thanks for visiting my profile!
