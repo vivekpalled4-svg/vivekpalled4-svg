@@ -1,7 +1,7 @@
 # Hi, I'm Vivek 👋
 
 🎓 **BCA Graduate**   
-⚡ **Skills:** Python • HTML • CSS • JavaScript • MySQL • C • Java • Git • GitHub  
+⚡ **Skills:** Python • HTML • CSS • JavaScript • MySQL • C • Java 
 🚀 **Open to Software Developer and Web Developer opportunities**
 
 ---
