@@ -55,9 +55,7 @@ A web-based service booking platform that allows customers to book home and vehi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekpalled4-svg&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpalled4-svg&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vivekpalled4-svg&theme=tokyonight)
 
