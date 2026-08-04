@@ -30,7 +30,6 @@
 - MySQL
 
 ### Tools
-- Git
 - GitHub
 - Visual Studio Code
 
